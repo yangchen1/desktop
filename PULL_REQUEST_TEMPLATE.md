@@ -1,8 +1,26 @@
-First of all, please read `CONTRIBUTING.md`
+<!--
 
----
+Thank you for planning to submit a pull request and contributing to the Mattermost Desktop application!
 
-- [ ] Complete [Mattermost Contributor Agreement](http://www.mattermost.org/mattermost-contributor-agreement/)
-- [ ] Execute `npm run prettify` to format codes
-- [ ] Write about environment which you tested
-  - Operating system
+Please provide the following information:
+-->
+
+Before submitting, please make sure you've 
+ - read and understood our contributing guidelines;
+https://github.com/mattermost/desktop/blob/master/CONTRIBUTING.md
+ - completed [Mattermost Contributor Agreement](http://www.mattermost.org/mattermost-contributor-agreement/)
+ - executed `npm run prettify` for proper code formatting
+
+**Summary**
+<!--
+Write a short (one line) summary that describes the changes in this pull request for inclusion in the changelog
+-->
+
+**Issue link**
+<!--
+Please include a link to the GitHub issue this pull request addresses, if applicable.
+-->
+
+**Test Cases**
+
+**Additional Notes**
