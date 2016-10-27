@@ -1,8 +1,8 @@
 # Contributing Guidelines
-Thank you for your contributing! My requests are few things. Please read below.
+Thank you for your interest in contributing!
 
 ## Issue
-Thank you for feedback. When you report a problem, please pay attention to following points.
+Thank you for your feedback. When you report a problem, please pay attention to following points:
 
 ### Does it happen on web browsers? (especially Chrome)
 Mattermost Desktop is based on Electron, which integrates the Chrome engine within a standalone application.
